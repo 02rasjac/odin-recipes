@@ -35,3 +35,8 @@ a.recipe:hover {
     height: auto;
     width: 500px;
 }
+
+.wrap {
+    width: 500px;
+    overflow-wrap: break-word;
+}
