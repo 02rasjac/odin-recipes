@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a.recipe {
+    border: solid;
+    border-color: midnightblue;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 5px;
+    color: black;
+    text-decoration-line: none;
+}
