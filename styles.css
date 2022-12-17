@@ -36,6 +36,10 @@ a.recipe:hover {
     width: 500px;
 }
 
+#description {
+    font-size: 18px;
+}
+
 .wrap {
     width: 500px;
     overflow-wrap: break-word;
