@@ -11,3 +11,7 @@ a.recipe {
     color: black;
     text-decoration-line: none;
 }
+
+#recipes li {
+    margin-top: 15px;
+}
