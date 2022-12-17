@@ -8,8 +8,13 @@ a.recipe {
     border-width: 2px;
     border-radius: 5px;
     padding: 5px;
-    color: black;
+    color: #303030;
     text-decoration-line: none;
+}
+
+a.recipe:hover {
+    text-decoration: underline;
+    color: black;
 }
 
 #recipes li {
